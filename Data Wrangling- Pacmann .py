@@ -608,10 +608,3 @@ plt.ylabel("Total order")
 plt.title("Order status")
 plt.xticks(rotation='vertical')
 plt.show()
-
-
-# In[ ]:
-
-
-
-
